@@ -1,3 +1,7 @@
+Now that I have a little bit more knowledge about coding I have started a small project for myself. The goal is to learn more about React.js, Firebase and TypeScript. The website will eventually have a register and log in where users data will be saved in Firebase. Users should be able to buy items on the website. I update whenever a new feature is ready! 
+Right now you can register with username, email and password. Next step is to save the data in Firebase. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
